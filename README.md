@@ -1,6 +1,4 @@
-### **CSS Syntax Coding Challenges**
-
-**Title:** CSS Syntax Challenges
+### **Intro to CSS, Valid Syntax**
 
 **Objective:**  
 Students will demonstrate their understanding of CSS syntax by completing a series coding tasks. These challenges focus on writing valid CSS rules, debugging errors, and applying proper structure.
